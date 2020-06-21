@@ -22,7 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
-		
+		 <sonar.projectKey>Dilshad-Shaik_orderservice</sonar.projectKey>
+  <sonar.organization>group8</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>e3d1a3b1bbe75b4b03ec003335198be2024e3217</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
